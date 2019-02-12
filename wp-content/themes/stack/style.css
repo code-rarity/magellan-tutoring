@@ -1661,3 +1661,19 @@ ol.flickity-page-dots {
 .fixed-slider-content .container {	
     padding: 7.42857143em 0;
 }
+
+
+span.wpcf7-list-item.first.input-checkbox {
+   display: inline-block !important;
+    position: relative !important;
+    bottom: 10px !important;
+    margin-left: 0.92857143em !important;
+    font-size: 0.85714286em !important;
+    white-space: nowrap !important;
+    opacity: 0.75 !important;
+}
+
+section.text-center.bg--dark.space--xs {
+		background:url(https://www.magellantutoring.com/wp-content/uploads/2019/02/main-bg_0.jpg) !important;
+}
+}

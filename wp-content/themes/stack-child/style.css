@@ -5,3 +5,13 @@
 * Template: stack
 * Version: 10.5.13
 */
+
+span.wpcf7-list-item.first.input-checkbox {
+   display: inline-block !important;
+    position: relative !important;
+    bottom: 10px !important;
+    margin-left: 0.92857143em !important;
+    font-size: 0.85714286em !important;
+    white-space: nowrap !important;
+    opacity: 0.75 !important;
+}
